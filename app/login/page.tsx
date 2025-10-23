@@ -1,3 +1,4 @@
+"use client";
 import React, { useMemo, useState } from "react";
 import { motion } from "framer-motion";
 import { Eye, EyeOff, LogIn, ShieldCheck, Smartphone, Mail, CheckCircle2 } from "lucide-react";
